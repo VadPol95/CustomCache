@@ -1,0 +1,30 @@
+2022-09-05 12:46:02,487 [INFO ] [io-8080-exec-4] - Create Cache with name '"Cache"' 
+2022-09-05 12:48:02,243 [INFO ] [io-8080-exec-8] - Get value from inner Cache with name : '"Dog"'
+2022-09-05 12:50:19,716 [INFO ] [main          ] - Create Cache with name 'Some' 
+2022-09-05 12:50:19,720 [INFO ] [main          ] - Get value from inner Cache with name : 'People'
+2022-09-05 12:50:19,720 [INFO ] [main          ] - Remove all
+2022-09-05 12:51:33,461 [INFO ] [main          ] - Create Cache with name 'Some' 
+2022-09-05 12:51:33,466 [INFO ] [main          ] - Get value from inner Cache with name : 'People'
+2022-09-05 12:51:33,466 [INFO ] [main          ] - Remove all
+2022-09-05 12:52:09,858 [INFO ] [io-8080-exec-4] - Create Cache with name 'Key' 
+2022-09-05 12:57:07,839 [INFO ] [io-8080-exec-1] - Create Cache with name 'Key' 
+2022-09-05 12:59:27,166 [INFO ] [io-8080-exec-5] - Create Cache with name 'Key' 
+2022-09-05 12:59:40,415 [INFO ] [io-8080-exec-6] - Create Cache with name 'Key' 
+2022-09-05 13:33:49,101 [INFO ] [main          ] - Create Cache with name 'Some' 
+2022-09-05 13:33:49,104 [INFO ] [main          ] - Get value from inner Cache with name : 'People'
+2022-09-05 13:33:49,105 [INFO ] [main          ] - Remove all
+2022-09-05 13:34:09,922 [INFO ] [main          ] - Create Cache with name 'Some' 
+2022-09-05 13:34:09,925 [INFO ] [main          ] - Get value from inner Cache with name : 'People'
+2022-09-05 13:34:09,926 [INFO ] [main          ] - Remove all
+2022-09-05 13:35:23,384 [INFO ] [io-8080-exec-4] - Create Cache with name '"Key"' 
+2022-09-05 13:37:02,726 [INFO ] [io-8080-exec-8] - Get value from inner Cache with name : '"Key"'
+2022-09-05 13:41:41,623 [INFO ] [main          ] - Create Cache with name 'Some' 
+2022-09-05 13:41:41,625 [INFO ] [main          ] - Get value from inner Cache with name : 'People'
+2022-09-05 13:41:41,626 [INFO ] [main          ] - Remove all
+2022-09-05 13:47:24,020 [INFO ] [io-8080-exec-4] - Endpoint /create  Cache name: "Key"
+2022-09-05 13:49:39,978 [INFO ] [io-8080-exec-4] - Endpoint /create  Cache name: "Key"
+2022-09-05 13:49:39,979 [INFO ] [io-8080-exec-4] - Create Cache with name '"Key"' 
+2022-09-05 13:50:06,794 [INFO ] [io-8080-exec-5] - Endpoint /exist  Cache name: "Key"
+2022-09-05 13:50:56,277 [INFO ] [main          ] - Create Cache with name 'Some' 
+2022-09-05 13:50:56,282 [INFO ] [main          ] - Get value from inner Cache with name : 'People'
+2022-09-05 13:50:56,284 [INFO ] [main          ] - Remove all
